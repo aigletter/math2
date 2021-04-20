@@ -12,7 +12,9 @@
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
-        "itea\\learning\\math\\": "src"
+        "psr-4": {
+            "itea\\learning\\math\\": "src"
+        }
     },
     "extra": {
         "laravel": {
