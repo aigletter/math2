@@ -13,5 +13,12 @@
     "require": {},
     "autoload": {
         "itea\\learning\\math\\": "src"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "itea\\learning\\math\\MathServiceProvider"
+            ]
+        }
     }
 }
