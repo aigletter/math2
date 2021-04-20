@@ -1,0 +1,17 @@
+{
+    "name": "aigletter/math",
+    "description": "Пакет для математики",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yurii Orlyk",
+            "email": "aigletter@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "itea\\learning\\math\\": "src"
+    }
+}
